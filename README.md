@@ -1,0 +1,1 @@
+AndroidWirelessDebugConnect is a script that allows you to just pass in the IP address and port number for your phone.  You need to have ADB in your path and the phone must be pluggd into your computer by USB and the you can execute the script with a command similar to the following:  .\AndroidWirelessDebugConnect "192.192.3.213" "1212"
